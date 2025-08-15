@@ -1,7 +1,7 @@
 <h1> Luciano Ezequiel Caro </h1>
 <p>Estudiante Fullstack de RollingCode W19, | Aspirante a programador.</p>
 
-### Tecnologias Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <hr>
