@@ -28,5 +28,5 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 <hr>
 
-Ultima Edicion: Jueves, 28 de agosto de 2025.
-Last updated: Thursday, August 28, 2025.
+<p>Ultima Edicion: Jueves, 28 de agosto de 2025.</p>
+<p>Last updated: Thursday, August 28, 2025.</p>
