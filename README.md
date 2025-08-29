@@ -2,7 +2,7 @@
 <p>Fullstack Student at RollingCode W19 | Programmer in Training</p>
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <hr>
 
@@ -22,13 +22,12 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 <hr>
 
-### Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LECod3&layout=compact&theme=dark)
-
-
 ### Contact
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/luciano-ezequiel-caro-6a7244252/)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 <hr>
+
+### Languages 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LECod3&layout=compact&theme=dark)
 
 <p>Last updated: Thursday, August 28, 2025.</p>
