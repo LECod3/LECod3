@@ -30,4 +30,6 @@
 ### Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LECod3&layout=compact&theme=dark)
 
+<hr>
+
 <p>Last updated: Thursday, August 28, 2025.</p>
